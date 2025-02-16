@@ -1,5 +1,8 @@
 ## Hello, my name is Davi Barreto!
 
+Frontend Developer
+Passionate about creating intuitive and responsive user interfaces, I specialize in HTML, CSS, and JavaScript to bring ideas to life. Always exploring new technologies and improving my skills to deliver the best digital experiences. Let's build something amazing together!
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
