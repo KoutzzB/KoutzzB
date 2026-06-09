@@ -1,7 +1,6 @@
 ## Hello, my name is Davi Barreto!
 
-Frontend Developer
-Frontend Developer! I'm passionate about creating intuitive and responsive user interfaces, I'm an expert in HTML, CSS and JavaScript to bring ideas to life. Always exploring new projects and learning new languages! I do projects in Lua and C++, intermediate level!
+Front-End Developer! I'm passionate about creating intuitive and responsive user interfaces, I'm an developer in HTML, CSS and JavaScript to bring ideas to life. Always exploring new projects and learning new languages! I do projects in Lua, React.js, Type.js. Intermediate level!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
